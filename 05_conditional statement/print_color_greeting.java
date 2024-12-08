@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class print_color_greeting {
     public static void main(String[] args) {
+        System.out.println("choose '1' or '2' or '3' ");
         Scanner obj=new Scanner(System.in);
         int number=obj.nextInt();
 
