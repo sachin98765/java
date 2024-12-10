@@ -20,11 +20,13 @@ public class TwoDArray {
         }
 
         //output
+        //rows
         for(int i=0;i<rows;i++){
+            //columns
             for(int j=0;j<cols;j++){
                 System.out.print(numbers[i][j]+" ");
             }
-            System.out.println(" ");
+            System.out.println();
         }
 
 
