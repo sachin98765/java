@@ -10,7 +10,11 @@ public class SelectionSort {
     public static void main(String[] args) {
 
         int arr[]={7,8,3,1,2};
-       
+        System.out.println("Given Array IS--");
+        for(int i=0; i<arr.length;i++){
+        System.out.print( arr[i]+ " ");
+        }
+        System.out.println();
         //Selection Sort
 
         for(int i=0;i<arr.length-1;i++){
