@@ -10,7 +10,11 @@ public class InsertionSort {
     }
     public static void main(String[] args) {
         int arr[]={7,8,1,2,3};
-        
+        System.out.println("Given Array Is-");
+        for(int i=0;i<arr.length;i++){
+            System.out.print(arr[i] + " ");
+        }
+        System.out.println();
         
         //insertion sort
         for(int i=1;i<arr.length;i++){
