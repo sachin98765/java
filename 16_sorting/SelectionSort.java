@@ -1,4 +1,3 @@
-
 public class SelectionSort {
     public static void printArray(int arr[]) {
         System.out.println("After Sorting Array Is-");
@@ -29,6 +28,7 @@ public class SelectionSort {
             arr[i]=temp;
 
         }
+        //call the function
         printArray(arr);
 
 
