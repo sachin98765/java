@@ -12,7 +12,7 @@ public class Problem8 {
             System.out.println(" negative numbers.");
         } else {
             long factorial = calculateSum(number);
-            System.out.println("Sum of the Numbers: " + number );
+            System.out.println("The factorial of " + number + " is: " + factorial);
         }
 
         scanner.close();
