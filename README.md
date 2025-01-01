@@ -36,7 +36,7 @@
     11.Finding the Least Common Multiple (LCM)
     12.
     13.
-    14.
+    14.Finding the Largest and Smallest Numbers in an Array
     15.
     16.
     17.
