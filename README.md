@@ -34,12 +34,12 @@
     9.Summing Digits of a Number
     10.Finding the Greatest Common Divisor (GCD)
     11.Finding the Least Common Multiple (LCM)
-    12.2D Arrays
-    13.String
-    14.String Builder
-    15.Operations & Binary Numbers
-    16.Sorting
-    17.Recursion
+    12.
+    13.
+    14.
+    15.
+    16.
+    17.
     18.
     19.
     20.
