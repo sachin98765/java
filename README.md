@@ -37,7 +37,7 @@
     12.
     13.
     14.Finding the Largest and Smallest Numbers in an Array
-    15.
+    15.Sorting an Array
     16.
     17.
     18.
