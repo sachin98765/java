@@ -34,7 +34,7 @@
     9.Summing Digits of a Number
     10.Finding the Greatest Common Divisor (GCD)
     11.Finding the Least Common Multiple (LCM)
-    12.
+    12.Counting Vowels and Consonants in a String
     13.
     14.Finding the Largest and Smallest Numbers in an Array
     15.Sorting an Array
