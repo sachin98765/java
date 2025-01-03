@@ -35,7 +35,7 @@
     10.Finding the Greatest Common Divisor (GCD)
     11.Finding the Least Common Multiple (LCM)
     12.Counting Vowels and Consonants in a String
-    13.
+    13.Reversing a String
     14.Finding the Largest and Smallest Numbers in an Array
     15.Sorting an Array
     16.Finding the Sum of Elements in an Array
