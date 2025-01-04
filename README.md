@@ -39,7 +39,7 @@
     14.Finding the Largest and Smallest Numbers in an Array
     15.Sorting an Array
     16.Finding the Sum of Elements in an Array
-    17.
+    17.Checking for Armstrong Numbers in a Range
     18.
     19.
     20.
