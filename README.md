@@ -40,7 +40,7 @@
     15.Sorting an Array
     16.Finding the Sum of Elements in an Array
     17.Checking for Armstrong Numbers in a Range
-    18.
+    18.Generating Multiplication Tables
     19.
     20.
 
