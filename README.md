@@ -43,6 +43,18 @@
     18.Generating Multiplication Tables
     19.Finding Prime Numbers in a Range
     20.Checking for Perfect Numbers
+    21.Calculating the Sum of Even Numbers in a Range
+    22.
+    23.
+    23.
+    24.
+    25.
+    26.
+    27.
+    28.
+    29.
+    30.
+    31.
 
     
     
