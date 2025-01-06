@@ -42,7 +42,7 @@
     17.Checking for Armstrong Numbers in a Range
     18.Generating Multiplication Tables
     19.Finding Prime Numbers in a Range
-    20.
+    20.Checking for Perfect Numbers
 
     
     
