@@ -44,7 +44,7 @@
     19.Finding Prime Numbers in a Range
     20.Checking for Perfect Numbers
     21.Calculating the Sum of Even Numbers in a Range
-    22.
+    22.Calculating the Sum of Odd Numbers in a Range
     23.
     23.
     24.
