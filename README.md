@@ -21,6 +21,9 @@
     19.
     20.
 
+    OOPS IN JAVA
+        00 AND 01. CLASS AND OBJECT (use 'this' keyword and Contructors with parameter)
+
     **DSA Problems
     
     1. Determining Even/Odd Numbers
