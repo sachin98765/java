@@ -1,6 +1,3 @@
-
-
-
 class Student{
     String name;
     int age;
@@ -17,8 +14,6 @@ class Student{
     public void printInfo(String name, int age){
         System.out.println(name + " " + age);   
     }
-
-
 
 }
 
