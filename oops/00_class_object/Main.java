@@ -26,8 +26,9 @@ class Student{
         System.out.println(this.age);
     }
 
-    Student(){
-        System.out.println("Constructor called");
+    Student(String name,int age){
+        this.name=name;
+        this.age=age;
     }
 }
 
@@ -48,11 +49,20 @@ public class Main {
 
 
         //this is for student class
-        Student student1=new Student();
-        student1.name="Rahul";
-        student1.age=20;
+        //without constructor
+         //Student student1=new Student();
+        // student1.name="Rahul";
+        // student1.age=20;
+
+        // student1.printInfo();
+
+        //with constructor
+        Student student1=new Student("sam",24);
 
         student1.printInfo();
+
+
+
     }
     
 }
