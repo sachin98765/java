@@ -26,6 +26,8 @@
         02.Polymorphism
             .Overloading
             .Overriding
+        03.Inheritance
+            .Single
                 
 
     **DSA Problems
