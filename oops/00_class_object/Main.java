@@ -5,17 +5,27 @@ class Pen{
     String type;
     
     public void write(){
-        System.out.println("Writing with " + color + " " + type + " pen");
+        System.out.println("Write something"); 
     }
+
+    public void printColor(){
+        System.out.println(this.color);
+    }
+
 
 }
 public class Main {
     public static void main(String[] args) {
         Pen pen1=new Pen();
         pen1.color="Red";
-        pen1.type="Ballpoint";
+        pen1.type="Ball";
 
-        pen1.write();
+        Pen pen2=new Pen();
+        pen2.color="Blue";
+        pen2.type="Gel";
+
+        pen1.printColor();
+        pen1.printColor();
     }
     
 }
