@@ -56,7 +56,7 @@
     22.Calculating the Sum of Odd Numbers in a Range
     23.Finding the Fibonacci Number at a Specific Position
     24.Printing Prime Numbers Less Than a Given Number
-    25.
+    25.Finding the Number of Digits in a Number
     26.
     27.
     28.
