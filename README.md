@@ -57,7 +57,7 @@
     23.Finding the Fibonacci Number at a Specific Position
     24.Printing Prime Numbers Less Than a Given Number
     25.Finding the Number of Digits in a Number
-    26.
+    26.Checking if a Number is a Narcissistic Number
     27.
     28.
     29.
