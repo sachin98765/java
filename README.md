@@ -54,9 +54,8 @@
     20.Checking for Perfect Numbers
     21.Calculating the Sum of Even Numbers in a Range
     22.Calculating the Sum of Odd Numbers in a Range
-    23.
-    23.
-    24.
+    23.Finding the Fibonacci Number at a Specific Position
+    24.Printing Prime Numbers Less Than a Given Number
     25.
     26.
     27.
