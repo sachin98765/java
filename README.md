@@ -27,7 +27,12 @@
             .Overloading
             .Overriding
         03.Inheritance
-            .Single
+            .single iheritance
+            .multilevel  inheritance
+            .hirerarchial inheritance
+            .hybrid inheritance
+            .multiple inheritance
+            
                 
 
     **DSA Problems
