@@ -58,7 +58,7 @@
     24.Printing Prime Numbers Less Than a Given Number
     25.Finding the Number of Digits in a Number
     26.Checking if a Number is a Narcissistic Number
-    27.
+    27.Generating a Pattern of Numbers
     28.
     29.
     30.
