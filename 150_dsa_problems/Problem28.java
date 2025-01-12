@@ -21,7 +21,6 @@ public class Problem28 {
         }
         return sum;
     }
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
