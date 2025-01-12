@@ -66,7 +66,7 @@
     27.Generating a Pattern of Numbers
     28.Finding the Sum of the Digits of the Factorial of a Number
     29.Finding the Largest Palindrome in a String
-    30.
+    30.Generating a Pascal’s Triangle
     31.
     32.
     33.
