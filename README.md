@@ -69,7 +69,7 @@
     30.Generating a Pascal’s Triangle
     31.Finding the Median of an Array
     32.Calculating the Power of a Number
-    33.
+    33.Checking for an Anagram
     34.
     35.
     36.
