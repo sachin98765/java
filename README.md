@@ -68,7 +68,7 @@
     29.Finding the Largest Palindrome in a String
     30.Generating a Pascal’s Triangle
     31.Finding the Median of an Array
-    32.
+    32.Calculating the Power of a Number
     33.
     34.
     35.
