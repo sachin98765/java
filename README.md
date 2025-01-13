@@ -67,7 +67,7 @@
     28.Finding the Sum of the Digits of the Factorial of a Number
     29.Finding the Largest Palindrome in a String
     30.Generating a Pascal’s Triangle
-    31.
+    31.Finding the Median of an Array
     32.
     33.
     34.
