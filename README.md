@@ -72,7 +72,7 @@
     31.Finding the Median of an Array
     32.Calculating the Power of a Number
     33.Checking for an Anagram
-    34.
+    34.Finding the Sum of Prime Numbers in a Range
     35.
     36.
     37.
