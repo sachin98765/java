@@ -1,5 +1,5 @@
 //Description: Write a program to check if two strings are anagrams.
-
+    
 import java.util.Arrays;
 import java.util.Scanner;
 
