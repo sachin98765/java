@@ -74,7 +74,7 @@
     33.Checking for an Anagram
     34.Finding the Sum of Prime Numbers in a Range
     35.Finding the N-th Triangular Number
-    36.
+    36.Checking for Perfect Squares
     37.
     38.
     39.
