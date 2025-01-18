@@ -2,6 +2,7 @@
 import java.util.Scanner;
 
 public class Problem35 {
+
     // Method to calculate the N-th triangular number
     public static int findTriangularNumber(int n) {
         return (n * (n + 1)) / 2;
