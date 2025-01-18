@@ -75,7 +75,7 @@
     34.Finding the Sum of Prime Numbers in a Range
     35.Finding the N-th Triangular Number
     36.Checking for Perfect Squares
-    37.
+    37.Finding the Sum of Squares of Digits
     38.
     39.
     40.
