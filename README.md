@@ -78,7 +78,7 @@
     37.Finding the Sum of Squares of Digits
     38.
     39.Generating a Square Matrix of a Given Size
-    40.
+    40.Calculating the Sum of Digits of a Number Until Single Digit
     41.
     42.
     43.
