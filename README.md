@@ -80,6 +80,7 @@
     39.Generating a Square Matrix of a Given Size
     40.Calculating the Sum of Digits of a Number Until Single Digit
     41.Finding the Count of Specific Digits in a Number
+    42.Generating a Fibonacci Sequence Using Recursion
    
     44.
     45.
