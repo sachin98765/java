@@ -81,7 +81,7 @@
     40.Calculating the Sum of Digits of a Number Until Single Digit
     41.Finding the Count of Specific Digits in a Number
     42.Generating a Fibonacci Sequence Using Recursion
-   
+    43.Finding All Divisors of a Number
     44.
     45.
     46.
