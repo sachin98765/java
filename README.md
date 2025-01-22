@@ -83,7 +83,7 @@
     41.Finding the Count of Specific Digits in a Number
     42.Generating a Fibonacci Sequence Using Recursion
     43.Finding All Divisors of a Number
-    44.
+    44.Finding the Average of Numbers in an Array
     45.
     46.
     47.
