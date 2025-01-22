@@ -84,7 +84,7 @@
     42.Generating a Fibonacci Sequence Using Recursion
     43.Finding All Divisors of a Number
     44.Finding the Average of Numbers in an Array
-    45.
+    45.Finding the Mode of Numbers in an Array
     46.
     47.
     48.
