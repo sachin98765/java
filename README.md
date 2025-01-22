@@ -22,7 +22,7 @@
     20.
 
     
-
+****************************************************X**********************************************
     OOPS IN JAVA
         00 AND 01. CLASS AND OBJECT (use 'this' keyword and Contructors with parameter)
         02.Polymorphism
@@ -35,8 +35,9 @@
             .hybrid inheritance
             .multiple inheritance
             
-                
 
+                
+****************************************************X**********************************************
     **DSA Problems
     
     1. Determining Even/Odd Numbers
@@ -79,9 +80,9 @@
     38.
     39.Generating a Square Matrix of a Given Size
     40.Calculating the Sum of Digits of a Number Until Single Digit
-    41.
-    42.
-    43.
+    41.Finding the Count of Specific Digits in a Number
+    42.Generating a Fibonacci Sequence Using Recursion
+    43.Finding All Divisors of a Number
     44.
     45.
     46.
