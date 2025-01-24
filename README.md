@@ -86,7 +86,7 @@
     44.Finding the Average of Numbers in an Array
     45.Finding the Mode of Numbers in an Array
     46.Determining the Length of a String Without Using Built-In Functions
-    
+    47.Generating a Number Pyramid
     48.
     49.
     50.
