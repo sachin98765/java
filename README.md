@@ -77,7 +77,7 @@
     35.Finding the N-th Triangular Number
     36.Checking for Perfect Squares
     37.Finding the Sum of Squares of Digits
-    38.
+    38.Finding Missing Numbers in a Sequence
     39.Generating a Square Matrix of a Given Size
     40.Calculating the Sum of Digits of a Number Until Single Digit
     41.Finding the Count of Specific Digits in a Number
